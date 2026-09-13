@@ -4,3 +4,4 @@
 /releng/modules/frida-gadget-ios/*.dylib
 /releng/modules/frida-gadget-ios/node_modules
 /subprojects/*
+.DS_Store
